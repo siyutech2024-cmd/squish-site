@@ -1,0 +1,2409 @@
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.7
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.7
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.9
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.9
+          }
+        ],
+        "EventDuration": 0.04
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.07,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.9
+          }
+        ],
+        "EventDuration": 0.06
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.9
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.9
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ],
+        "EventDuration": 0.035
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ],
+        "EventDuration": 0.05
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.08,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ],
+        "EventDuration": 0.08
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.4
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.7
+          }
+        ],
+        "EventDuration": 0.03
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.4
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.019,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.4
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.038,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.4
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.7
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.3
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.3
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.85
+          }
+        ]
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.06,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.85
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.6
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.85
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ],
+        "EventDuration": 0.03
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.07,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ],
+        "EventDuration": 0.03
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.14,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ],
+        "EventDuration": 0.08
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ]
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.06,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.8
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.6
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.5
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.7
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.5
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.7
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.75
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.8
+          }
+        ],
+        "EventDuration": 0.03
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.05,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.75
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.8
+          }
+        ],
+        "EventDuration": 0.05
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.75
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.8
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.35
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.2
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticContinuous",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.3
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.4
+          }
+        ],
+        "EventDuration": 0.03
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.3
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.4
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.3
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.5
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.5
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.3
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Version": 1.0,
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0.0,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.5
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.05,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.36
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "Event": {
+        "Time": 0.098,
+        "EventType": "HapticTransient",
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 0.2592
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0.3
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "id": "hap_click",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "press": {
+      "androidPatternMs": [
+        6
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.7
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 1
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "release": {
+      "androidPatternMs": [
+        4
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.7
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 1
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_crisp",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "crack": {
+      "androidPatternMs": [
+        12
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.9
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "spread": {
+      "androidPatternMs": [
+        5
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.9
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "flake": {
+      "androidPatternMs": [
+        24
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.9
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "done": {
+      "androidPatternMs": [
+        40,
+        30,
+        60
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.9
+                }
+              ],
+              "EventDuration": 0.04
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.07,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.9
+                }
+              ],
+              "EventDuration": 0.06
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_crisp_heavy",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "crack": {
+      "androidPatternMs": [
+        20
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "chunk": {
+      "androidPatternMs": [
+        35
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ],
+              "EventDuration": 0.035
+            }
+          }
+        ]
+      }
+    },
+    "done": {
+      "androidPatternMs": [
+        50,
+        30,
+        80
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ],
+              "EventDuration": 0.05
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.08,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ],
+              "EventDuration": 0.08
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_grain",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "rub": {
+      "androidPatternMs": [
+        4,
+        15,
+        4,
+        15,
+        4
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.4
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.7
+                }
+              ]
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.019,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.4
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.7
+                }
+              ]
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.038,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.4
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.7
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "collapse": {
+      "androidPatternMs": [
+        30
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.4
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.7
+                }
+              ],
+              "EventDuration": 0.03
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_peel",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "peel": {
+      "androidPatternMs": [
+        3
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.3
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "repeatEveryMs": 60
+    },
+    "rip": {
+      "androidPatternMs": [
+        25
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.3
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_pop",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "pop": {
+      "androidPatternMs": [
+        14
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.85
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "flip": {
+      "androidPatternMs": [
+        20,
+        40,
+        20
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.85
+                }
+              ]
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.06,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.6
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.85
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_reward",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "rare": {
+      "androidPatternMs": [
+        20,
+        40,
+        20
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ]
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.06,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "legendary": {
+      "androidPatternMs": [
+        30,
+        40,
+        30,
+        40,
+        80
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ],
+              "EventDuration": 0.03
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.07,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ],
+              "EventDuration": 0.03
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.14,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.8
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.6
+                }
+              ],
+              "EventDuration": 0.08
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_slice",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "cut": {
+      "androidPatternMs": [
+        8
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.5
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.7
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "sever": {
+      "androidPatternMs": [
+        20
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.5
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.7
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_snap",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "snap": {
+      "androidPatternMs": [
+        18
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.75
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.8
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "done": {
+      "androidPatternMs": [
+        30,
+        20,
+        50
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.75
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.8
+                }
+              ],
+              "EventDuration": 0.03
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.05,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.75
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.8
+                }
+              ],
+              "EventDuration": 0.05
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_soft",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "press": {
+      "androidPatternMs": [
+        18
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.35
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.2
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "release": {
+      "androidPatternMs": [],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": []
+      }
+    }
+  }
+}
+{
+  "id": "hap_tension",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "stretch": {
+      "androidPatternMs": [
+        4
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.3
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.4
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "repeatEveryMs": 80,
+      "intensityRange": [
+        0.3,
+        0.7
+      ]
+    },
+    "break": {
+      "androidPatternMs": [
+        30
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticContinuous",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.3
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.4
+                }
+              ],
+              "EventDuration": 0.03
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_ui",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "click": {
+      "androidPatternMs": [
+        5
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.3
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.5
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "hap_wobble",
+  "status": "placeholder",
+  "source": "v2 section 4, not measured",
+  "minIntervalMs": 35,
+  "stageAndDestroyBypassThrottle": true,
+  "hardnessIntensityScale": [
+    0.8,
+    1.2
+  ],
+  "events": {
+    "press": {
+      "androidPatternMs": [
+        10
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.5
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.3
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "release": {
+      "androidPatternMs": [
+        10,
+        40,
+        8,
+        40,
+        6
+      ],
+      "iosAHAP": {
+        "Version": 1.0,
+        "Pattern": [
+          {
+            "Event": {
+              "Time": 0.0,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.5
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.3
+                }
+              ]
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.05,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.36
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.3
+                }
+              ]
+            }
+          },
+          {
+            "Event": {
+              "Time": 0.098,
+              "EventType": "HapticTransient",
+              "EventParameters": [
+                {
+                  "ParameterID": "HapticIntensity",
+                  "ParameterValue": 0.2592
+                },
+                {
+                  "ParameterID": "HapticSharpness",
+                  "ParameterValue": 0.3
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+{
+  "id": "bulge-burst-ball",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.885,
+  "durationScale": 1.254,
+  "status": "derived-draft"
+}
+{
+  "id": "bulge-flour-filled",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.32,
+  "status": "derived-draft"
+}
+{
+  "id": "bulge-mesh-ball",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "bulge-pop-eye",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "bulge-water-beads",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.39,
+  "status": "derived-draft"
+}
+{
+  "id": "caramel-brulee-crust",
+  "intensityScale": 0.954,
+  "sharpnessScale": 1.078,
+  "durationScale": 0.873,
+  "status": "derived-draft"
+}
+{
+  "id": "caramel-mirror-glaze",
+  "intensityScale": 0.922,
+  "sharpnessScale": 1.06,
+  "durationScale": 0.904,
+  "status": "derived-draft"
+}
+{
+  "id": "caramel-nut-brittle",
+  "intensityScale": 1.018,
+  "sharpnessScale": 1.025,
+  "durationScale": 0.93,
+  "status": "derived-draft"
+}
+{
+  "id": "caramel-spun-sugar",
+  "intensityScale": 0.89,
+  "sharpnessScale": 1.095,
+  "durationScale": 0.862,
+  "status": "derived-draft"
+}
+{
+  "id": "caramel-toffee",
+  "intensityScale": 1.05,
+  "sharpnessScale": 0.99,
+  "durationScale": 0.978,
+  "status": "derived-draft"
+}
+{
+  "id": "choco-dark-chocolate",
+  "intensityScale": 1.018,
+  "sharpnessScale": 1.042,
+  "durationScale": 0.909,
+  "status": "derived-draft"
+}
+{
+  "id": "choco-hollow-shell",
+  "intensityScale": 0.922,
+  "sharpnessScale": 1.06,
+  "durationScale": 0.894,
+  "status": "derived-draft"
+}
+{
+  "id": "choco-milk-chocolate",
+  "intensityScale": 0.97,
+  "sharpnessScale": 0.99,
+  "durationScale": 0.978,
+  "status": "derived-draft"
+}
+{
+  "id": "choco-wafer-filled",
+  "intensityScale": 0.938,
+  "sharpnessScale": 1.078,
+  "durationScale": 0.873,
+  "status": "derived-draft"
+}
+{
+  "id": "choco-white-chocolate",
+  "intensityScale": 0.954,
+  "sharpnessScale": 0.955,
+  "durationScale": 1.026,
+  "status": "derived-draft"
+}
+{
+  "id": "color-pressure-change-foam",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "color-thermo-gel",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.41,
+  "status": "derived-draft"
+}
+{
+  "id": "color-thermo-ice-shell",
+  "intensityScale": 0.938,
+  "sharpnessScale": 1.095,
+  "durationScale": 0.852,
+  "status": "derived-draft"
+}
+{
+  "id": "color-thermo-putty",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.28,
+  "status": "derived-draft"
+}
+{
+  "id": "color-uv-silicone",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.38,
+  "status": "derived-draft"
+}
+{
+  "id": "crisp-crystal-film",
+  "intensityScale": 0.874,
+  "sharpnessScale": 1.113,
+  "durationScale": 0.841,
+  "status": "derived-draft"
+}
+{
+  "id": "crisp-double-hard-candy",
+  "intensityScale": 1.066,
+  "sharpnessScale": 1.025,
+  "durationScale": 0.93,
+  "status": "derived-draft"
+}
+{
+  "id": "crisp-frosted-shell-gel-core",
+  "intensityScale": 0.906,
+  "sharpnessScale": 1.078,
+  "durationScale": 0.923,
+  "status": "derived-draft"
+}
+{
+  "id": "crisp-rock-sugar-crystal",
+  "intensityScale": 1.018,
+  "sharpnessScale": 1.06,
+  "durationScale": 0.894,
+  "status": "derived-draft"
+}
+{
+  "id": "crisp-thin-sugar-glass",
+  "intensityScale": 0.938,
+  "sharpnessScale": 1.095,
+  "durationScale": 0.852,
+  "status": "derived-draft"
+}
+{
+  "id": "cutting-floral-foam",
+  "intensityScale": 0.858,
+  "sharpnessScale": 1.025,
+  "durationScale": 0.93,
+  "status": "derived-draft"
+}
+{
+  "id": "cutting-hard-soap",
+  "intensityScale": 0.97,
+  "sharpnessScale": 0.955,
+  "durationScale": 1.02,
+  "status": "derived-draft"
+}
+{
+  "id": "cutting-jelly-soap",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.85,
+  "durationScale": 1.216,
+  "status": "derived-draft"
+}
+{
+  "id": "cutting-starch-block",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.99,
+  "durationScale": 0.978,
+  "status": "derived-draft"
+}
+{
+  "id": "cutting-wax",
+  "intensityScale": 1.002,
+  "sharpnessScale": 0.92,
+  "durationScale": 1.062,
+  "status": "derived-draft"
+}
+{
+  "id": "fidget-ball-bearing",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.42,
+  "status": "derived-draft"
+}
+{
+  "id": "fidget-clicky-switch",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "fidget-linear-switch",
+  "intensityScale": 0.882,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "fidget-magnetic",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "fidget-tactile-switch",
+  "intensityScale": 0.898,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "granular-freeze-dried",
+  "intensityScale": 0.874,
+  "sharpnessScale": 1.095,
+  "durationScale": 0.852,
+  "status": "derived-draft"
+}
+{
+  "id": "granular-kinetic-sand",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.92,
+  "durationScale": 1.072,
+  "status": "derived-draft"
+}
+{
+  "id": "granular-powder-snow",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.99,
+  "durationScale": 0.978,
+  "status": "derived-draft"
+}
+{
+  "id": "granular-salt-crystal",
+  "intensityScale": 1.034,
+  "sharpnessScale": 1.025,
+  "durationScale": 0.928,
+  "status": "derived-draft"
+}
+{
+  "id": "granular-sugar-crystal",
+  "intensityScale": 0.954,
+  "sharpnessScale": 1.06,
+  "durationScale": 0.888,
+  "status": "derived-draft"
+}
+{
+  "id": "jelly-clear-gel",
+  "intensityScale": 0.866,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.41,
+  "status": "derived-draft"
+}
+{
+  "id": "jelly-firm-jelly",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "jelly-pudding-gel",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.39,
+  "status": "derived-draft"
+}
+{
+  "id": "jelly-tpr-jelly",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.41,
+  "status": "derived-draft"
+}
+{
+  "id": "jelly-water-filled",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.416,
+  "status": "derived-draft"
+}
+{
+  "id": "peel-fruit-peel",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.85,
+  "durationScale": 1.176,
+  "status": "derived-draft"
+}
+{
+  "id": "peel-glue-film",
+  "intensityScale": 0.842,
+  "sharpnessScale": 0.797,
+  "durationScale": 1.319,
+  "status": "derived-draft"
+}
+{
+  "id": "peel-holo-film",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.815,
+  "durationScale": 1.238,
+  "status": "derived-draft"
+}
+{
+  "id": "peel-tape",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.797,
+  "durationScale": 1.259,
+  "status": "derived-draft"
+}
+{
+  "id": "peel-wax-seal",
+  "intensityScale": 0.938,
+  "sharpnessScale": 0.92,
+  "durationScale": 1.072,
+  "status": "derived-draft"
+}
+{
+  "id": "pop-bubble-wrap",
+  "intensityScale": 0.858,
+  "sharpnessScale": 1.095,
+  "durationScale": 0.882,
+  "status": "derived-draft"
+}
+{
+  "id": "pop-matte-silicone",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.38,
+  "status": "derived-draft"
+}
+{
+  "id": "pop-soft-silicone",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "pop-standard-silicone",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.38,
+  "status": "derived-draft"
+}
+{
+  "id": "pop-thick-silicone",
+  "intensityScale": 0.954,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.36,
+  "status": "derived-draft"
+}
+{
+  "id": "slime-butter-slime",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.28,
+  "status": "derived-draft"
+}
+{
+  "id": "slime-clear-slime",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.32,
+  "status": "derived-draft"
+}
+{
+  "id": "slime-cloud-slime",
+  "intensityScale": 0.842,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.3,
+  "status": "derived-draft"
+}
+{
+  "id": "slime-crunchy-slime",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.885,
+  "durationScale": 1.154,
+  "status": "derived-draft"
+}
+{
+  "id": "slime-smart-putty",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.34,
+  "status": "derived-draft"
+}
+{
+  "id": "slowrise-bread-feel-foam",
+  "intensityScale": 0.866,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "slowrise-fast-rebound-foam",
+  "intensityScale": 0.882,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.41,
+  "status": "derived-draft"
+}
+{
+  "id": "slowrise-memory-foam",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.39,
+  "status": "derived-draft"
+}
+{
+  "id": "slowrise-plush-skin-foam",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.39,
+  "status": "derived-draft"
+}
+{
+  "id": "slowrise-pu-slow-rise",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "snack-hard-biscuit",
+  "intensityScale": 1.002,
+  "sharpnessScale": 0.99,
+  "durationScale": 0.97,
+  "status": "derived-draft"
+}
+{
+  "id": "snack-potato-chip",
+  "intensityScale": 0.874,
+  "sharpnessScale": 1.113,
+  "durationScale": 0.825,
+  "status": "derived-draft"
+}
+{
+  "id": "snack-puff-pastry",
+  "intensityScale": 0.89,
+  "sharpnessScale": 1.095,
+  "durationScale": 0.852,
+  "status": "derived-draft"
+}
+{
+  "id": "snack-puffed-snack",
+  "intensityScale": 0.858,
+  "sharpnessScale": 1.06,
+  "durationScale": 0.904,
+  "status": "derived-draft"
+}
+{
+  "id": "snack-shortbread",
+  "intensityScale": 0.922,
+  "sharpnessScale": 1.025,
+  "durationScale": 0.93,
+  "status": "derived-draft"
+}
+{
+  "id": "stretch-cheese-pull",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.28,
+  "status": "derived-draft"
+}
+{
+  "id": "stretch-maltose",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.3,
+  "status": "derived-draft"
+}
+{
+  "id": "stretch-rice-cake",
+  "intensityScale": 0.89,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.32,
+  "status": "derived-draft"
+}
+{
+  "id": "stretch-rubber",
+  "intensityScale": 0.906,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.416,
+  "status": "derived-draft"
+}
+{
+  "id": "stretch-tpr-stretch",
+  "intensityScale": 0.874,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.41,
+  "status": "derived-draft"
+}
+{
+  "id": "taba-jelly-mochi",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.4,
+  "status": "derived-draft"
+}
+{
+  "id": "taba-liquid-filled",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.39,
+  "status": "derived-draft"
+}
+{
+  "id": "taba-matte-mochi",
+  "intensityScale": 0.866,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.37,
+  "status": "derived-draft"
+}
+{
+  "id": "taba-silicone-mochi",
+  "intensityScale": 0.858,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.38,
+  "status": "derived-draft"
+}
+{
+  "id": "taba-super-soft-stretch",
+  "intensityScale": 0.842,
+  "sharpnessScale": 0.78,
+  "durationScale": 1.36,
+  "status": "derived-draft"
+}

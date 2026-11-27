@@ -1,0 +1,25 @@
+{
+  "icons": [
+    {
+      "file": "favicon-16.png",
+      "sizePx": 16,
+      "usage": "icon"
+    },
+    {
+      "file": "favicon-32.png",
+      "sizePx": 32,
+      "usage": "icon"
+    },
+    {
+      "file": "favicon-180.png",
+      "sizePx": 180,
+      "usage": "apple-touch-icon"
+    },
+    {
+      "file": "favicon-512.png",
+      "sizePx": 512,
+      "usage": "icon"
+    }
+  ],
+  "artStatus": "draft"
+}
