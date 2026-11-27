@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Payment done · Squish Shelf</title><meta name="robots" content="noindex">
+<style>
+:root{--bg:#FFF3E4;--ink:#3A2A33;--muted:#7A6670;--accent:#E2557A}
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:linear-gradient(#FFE3EC,#FFF3E4);color:var(--ink);font:17px/1.55 Nunito,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;text-align:center}
+main{max-width:420px;padding:32px 16px}
+h1{font-size:26px;margin:0 0 8px;color:var(--accent)}
+p{margin:6px 0;color:var(--muted)}
+.big{font-size:56px}
+</style></head><body><main>
+<div class="big">💖</div>
+<h1 id="t">Thank you!</h1>
+<p id="a">Switch back to Squish Shelf. Your purchase is added as soon as the game opens.</p>
+<p id="b">If you cancelled, nothing was charged.</p>
+</main>
+<script>
+var q=new URLSearchParams(location.search),zh=/^zh/i.test(navigator.language||'');
+if(q.has('stripe_cancel')){document.getElementById('t').textContent=zh?'已取消':'Payment cancelled';document.getElementById('a').textContent=zh?'没有扣款。可以切回捏捏架继续玩。':'Nothing was charged. Switch back to Squish Shelf to keep playing.';document.getElementById('b').textContent='';}
+else if(zh){document.getElementById('t').textContent='付款成功，谢谢！';document.getElementById('a').textContent='请切回捏捏架，游戏打开后会自动到账。';document.getElementById('b').textContent='';}
+</script></body></html>
