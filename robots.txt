@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /itch/
+
+Sitemap: https://squish.vitacazap.com/sitemap.xml

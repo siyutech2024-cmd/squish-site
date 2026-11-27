@@ -1,0 +1,27 @@
+# Squish Shelf
+
+> Press, stretch and poke squishy toys. Open blind boxes and run your own little squish shop. Free to play, no ads, 12 languages. Android (Google Play), itch.io and web browser.
+
+Squish Shelf is a relaxing squishy-toy game. Players press and hold to squeeze realistic toys (mochi, jelly, bubble wrap, caramel, slime, pop-its, stress balls); each material has its own feel, sound and vibration, and every toy eventually breaks. Players collect themed blind-box series (12 regular toys plus 1 hidden toy each), and run a toy shop that attracts visitors and tips.
+
+## Facts
+- Price: free to play, optional in-app purchases (gems; Squish Club monthly at $2.99; Winter Pass $9.99; starter pack $0.99). No ads.
+- Free play: daily taster toy, daily free restock, daily tasks that give a blind-box ticket (about one box a day without paying).
+- Blind box odds: regular toys equally likely; hidden toy 1 in 144, guaranteed within 120 boxes of a series.
+- Platforms: Android via Google Play (https://play.google.com/store/apps/details?id=com.descu.squishshelf), itch.io (https://pplayergame.itch.io/squish-shelf), browser (https://squish.vitacazap.com/play/).
+- Languages: English, 简体中文, 繁體中文, 日本語, 한국어, Español, Português, Français, Deutsch, Bahasa Indonesia, ไทย, Tiếng Việt.
+- Publisher: DESCU AI. Privacy policy: https://squish.vitacazap.com/privacy/
+
+## Pages
+- [English](https://squish.vitacazap.com/)
+- [简体中文](https://squish.vitacazap.com/zh/)
+- [繁體中文](https://squish.vitacazap.com/zh-tw/)
+- [日本語](https://squish.vitacazap.com/ja/)
+- [한국어](https://squish.vitacazap.com/ko/)
+- [Español](https://squish.vitacazap.com/es/)
+- [Português](https://squish.vitacazap.com/pt/)
+- [Français](https://squish.vitacazap.com/fr/)
+- [Deutsch](https://squish.vitacazap.com/de/)
+- [Bahasa Indonesia](https://squish.vitacazap.com/id/)
+- [ไทย](https://squish.vitacazap.com/th/)
+- [Tiếng Việt](https://squish.vitacazap.com/vi/)
