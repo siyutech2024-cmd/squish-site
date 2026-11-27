@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="referrer" content="no-referrer">
+<title>Squish Shelf sign-in</title>
+<style>
+  :root { --bg: #FFF6EC; --ink: #3B2E2A; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; display: grid; place-items: center; min-height: 100vh; text-align: center; padding: 0 16px; }
+</style>
+</head>
+<body>
+<p id="m">Signing you in…</p>
+<script>
+// itch.io OAuth callback for Squish Shelf. No third-party scripts on this page (itch's advice).
+// The token arrives in the URL hash; it is handed only to the game window that opened this page, then cleared.
+(function () {
+  var h = new URLSearchParams(location.hash.slice(1));
+  var token = h.get('access_token'), state = h.get('state');
+  history.replaceState(null, '', location.pathname);
+  var m = document.getElementById('m');
+  if (!token || !window.opener) { m.textContent = 'Sign-in did not finish. Close this window and tap "collect" in the game again.'; return; }
+  var games = ['https://html-classic.itch.zone', 'https://html.itch.zone', 'https://v6p9d9t4.ssl.hwcdn.net', 'https://itch.io', 'https://squish.vitacazap.com'];
+  games.forEach(function (o) { try { window.opener.postMessage({ type: 'itch-token', token: token, state: state }, o); } catch (e) {} });
+  m.textContent = 'Signed in. You can close this window and go back to the game.';
+  setTimeout(function () { window.close(); }, 800);
+})();
+</script>
+</body>
+</html>
